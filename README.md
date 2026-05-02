@@ -2,6 +2,10 @@
 
 I'm building **Mixfinity**, a physical-digital audio format for artists, collectors, and listeners.
 
+[https://mixfinity.com](https://mixfinity.com)
+
+[https://starsonder.com](https://starsonder.com)
+
 <table width="720">
   <tr>
     <td width="50%">
@@ -32,7 +36,6 @@ I'm building **Mixfinity**, a physical-digital audio format for artists, collect
 
 - **cfs-freertos**: [FreeRTOS port](https://github.com/pztrick/cfs-freertos) for NASA cFS / Core Flight System
 - **Astrohaus Freewrite**: Kickstarted a [smart typewriter](https://getfreewrite.com) back in 2015
-- **django-mcp**: Discontinued [library for Django + MCP](https://github.com/pztrick/django-mcp) tooling
 
 ## Available for consulting
 
